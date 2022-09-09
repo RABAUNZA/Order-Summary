@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @RABAUNZA 
-- 👀 I’m interested in pharmaceuticals, data analytics, video games.
-- 🌱 I’m currently learning Data Analytics.  I'm a newly certifide data analyst and I want to learn as much as I can.
-- 💞️ I’m looking to collaborate on data analytics, machine learning (I would love to move towards this later on).
+- 👋 Hi, I’m Ramiro Abaunza
+- 👀 I’m interested in Software development, video games, food and travel.
+- 🌱 I’m a Frontend Developer. 
+- 💞️ I’m looking to collaborate on websites, web apps, mobile apps.
 - 📫 How to reach me ramiroabaunza@hotmail.com
 
 <!---
